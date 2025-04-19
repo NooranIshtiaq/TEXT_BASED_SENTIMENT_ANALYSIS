@@ -55,9 +55,9 @@ This project performs sentiment analysis on Amazon Cell Phones & Accessories rev
 
 ## 📁 Folder Structure
 
-├── reviews/ # Folder containing the dataset │ └── Cell_Phones_and_Accessories_5.json │ 
-├── stopword_folder/ # Folder with stopword file │ └── NLTK's list of english stopwords │ 
-├── sentiments.txt # Output sentiment file ├── sentiment_analysis_notebook.ipynb # Your Colab notebook └──
+- ├── reviews/ # Folder containing the dataset │ └── Cell_Phones_and_Accessories_5.json │ 
+- ├── stopword_folder/ # Folder with stopword file │ └── NLTK's list of english stopwords │ 
+- ├── sentiments.txt # Output sentiment file ├── sentiment_analysis_notebook.ipynb # Your Colab notebook └──
 
 
 ## 📌 How to Run
