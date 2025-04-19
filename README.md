@@ -1,6 +1,3 @@
-# TEXT_BASED_SENTIMENT_ANALYSIS
-Sentiment and thematic analysis on Amazon product reviews using NLP techniques. The project involves preprocessing raw text data, performing thematic categorization, and classifying reviews into positive, negative, or neutral sentiments.
-
 # 📊 Amazon Reviews Sentiment Analysis (Colab)
 
 This project performs sentiment analysis on Amazon Cell Phones & Accessories reviews. It classifies reviews as **Positive**, **Negative**, or **Neutral** based on keyword sentiment scores and frequency-based keyword extraction.
@@ -44,6 +41,7 @@ This project performs sentiment analysis on Amazon Cell Phones & Accessories rev
      - Review ID
      - Sentiment Label
      - Cleaned Review Text
+     - Sentiment (Positive , Negative , Neutral )
 
 
 ## 🛠 Technologies
@@ -57,7 +55,9 @@ This project performs sentiment analysis on Amazon Cell Phones & Accessories rev
 
 ## 📁 Folder Structure
 
-reviews_project/ │ ├── reviews/ # Folder containing the dataset │ └── Cell_Phones_and_Accessories_5.json │ ├── stopword_folder/ # Folder with stopword file │ └── NLTK's list of english stopwords │ ├── sentiments.txt # Output sentiment file ├── sentiment_analysis_notebook.ipynb # Your Colab notebook └──
+├── reviews/ # Folder containing the dataset │ └── Cell_Phones_and_Accessories_5.json │ 
+├── stopword_folder/ # Folder with stopword file │ └── NLTK's list of english stopwords │ 
+├── sentiments.txt # Output sentiment file ├── sentiment_analysis_notebook.ipynb # Your Colab notebook └──
 
 
 ## 📌 How to Run
@@ -69,7 +69,7 @@ reviews_project/ │ ├── reviews/ # Folder containing the dataset │ └�
 
 ## 📬 Contact
 
-Created with ❤️ by **NOORAN**  
+Created by **NOORAN ISHTIAQ**  
 BS Data Science – FAST NUCES Islamabad  
 For feedback or questions, feel free to connect.
 
