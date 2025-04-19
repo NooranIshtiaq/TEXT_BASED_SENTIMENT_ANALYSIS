@@ -45,5 +45,34 @@ This project performs sentiment analysis on Amazon Cell Phones & Accessories rev
      - Sentiment Label
      - Cleaned Review Text
 
-## 🔍 Example Output
+
+## 🛠 Technologies
+
+- Python (3.x)
+- Google Colab
+- NLTK Stopwords (custom file)
+- JSON
+- Regular Expressions
+- Counter (from `collections`)
+
+## 📁 Folder Structure
+
+reviews_project/ │ ├── reviews/ # Folder containing the dataset │ └── Cell_Phones_and_Accessories_5.json │ ├── stopword_folder/ # Folder with stopword file │ └── NLTK's list of english stopwords │ ├── sentiments.txt # Output sentiment file ├── sentiment_analysis_notebook.ipynb # Your Colab notebook └──
+
+
+## 📌 How to Run
+
+1. Upload your dataset and stopwords file to Google Drive.
+2. Open the Colab notebook.
+3. Run all cells in sequence.
+4. Output will be saved as `sentiments.txt` in your drive.
+
+## 📬 Contact
+
+Created with ❤️ by **NOORAN**  
+BS Data Science – FAST NUCES Islamabad  
+For feedback or questions, feel free to connect.
+
+---
+
 
